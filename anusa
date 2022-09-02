@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Abhisit's Abilities</title>
+</head>
+
+<body style="background-color:powderblue;">
+    <!-- Menu -->
+    <hr>
+    <table style="width:100%; text-align: center">
+        <tr>
+            <td>
+                <h3><a href="index.html">Profile</a></h3>
+            </td>
+            <td>
+                <h3><a href="experiences.html">Experiences</a></h3>
+            </td>
+            <td>
+                <h3><a href="abilities.html">Abilities</a></h3>
+            </td>
+            <td>
+                <h3><a href="projects.html">Projects</a></h3>
+            </td>
+            <td>
+                <h3><a href="contact.html">Contact</a></h3>
+            </td>
+        </tr>
+    </table> 
+    <hr> 
+    <h1 style="text-align: center; font-family: cursive;">Abilities</h1> 
+    <!-- Reference: Aclonica Font -->
+    <link href='https://fonts.googleapis.com/css?family=Aclonica'rel='stylesheet'> 
+    <h4 style="text-align: center; font-family: Aclonica; font-weight:normal"><i>
+        "Ability is what you are capable of doing. Motivation determines what you do. 
+        Attitude determines how well you do it"</i></h4>
+    <h5 style="text-align: center; font-family: Aclonica; font-weight:normal">
+            --- Lou Holtz ---</h5>
+    <h2 style="text-align: center;">Skills</h2> 
+    <table style="margin-left: auto; margin-right: auto" cellspacing="30"> <!--- border="1">-->
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td>Adobe Photoshop</td>
+                        <!--Emoji Windows: WIN+. or WIN+; | MAC: ^+Command+space-->
+                        <td>⭐⭐⭐⭐⭐</td>
+                    </tr>
+                    <tr>
+                        <td>CSS</td>
+                        <td>⭐⭐</td>
+                    </tr>
+                    <tr>
+                        <td>Media</td>
+                        <td>⭐⭐⭐⭐</td>
+                    </tr>      
+                    <tr>
+                        <td>Clip studio</td>
+                        <td>⭐⭐⭐⭐</td>
+                    </tr>    
+                </table>               
+            </td>
+            <td>
+                <table>
+                    <tr>
+                        <td>Node.js</td>
+                        <td>⭐</td>
+                    </tr>
+                    <tr>
+                        <td>SQL</td>
+                        <td>⭐⭐</td>
+                    </tr>
+                    <tr>
+                        <td>NoSql</td>
+                        <td>⭐</td>
+                    </tr>      
+                    <tr>
+                        <td>Computer Graphics</td>
+                        <td>⭐⭐⭐⭐</td>
+                    </tr>    
+                </table>   
+            </td>
+        </tr>
+    </table>
+    <p style="text-align:center;"><img src="https://1417094351.rsc.cdn77.org/articles/3419/3418337/thumbnail/small.gif?1" alt="2"></p>
+</body>
+
+</html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Anusa's Contact</title>
+</head>
+
+<body style="background-color:powderblue;">
+    <!-- Menu -->
+    <hr>
+    <table style="width:100%; text-align: center">
+        <tr>
+            <td>
+                <h3><a href="index.html">Profile</a></h3>
+            </td>
+            <td>
+                <h3><a href="experiences.html">Experiences</a></h3>
+            </td>
+            <td>
+                <h3><a href="abilities.html">Abilities</a></h3>
+            </td>
+            <td>
+                <h3><a href="projects.html">Projects</a></h3>
+            </td>
+            <td>
+                <h3><a href="contact.html">Contact</a></h3>
+            </td>
+        </tr>
+    </table>
+    <hr>
+    <h1 style="text-align: center; font-family: cursive;">Contact</h1>
+    <table style="width:100%; text-align: center">
+        <tr>
+            <td>
+                <!-- Form: https://developer.mozilla.org/en-US/docs/Web/HTML/Element#forms -->
+                <form action="mailto:anusa.khon@bumail.net" method="POST" enctype="text/plain">
+                    <label for="yourName">Your Name:</label>
+                    <input type="text" id="yourName" name="yourName" value="">
+                    <br>
+                    <label for="yourEmail">Your Email:</label>
+                    <input type="email" id="yourEmail" name="yourEmail" value="">
+                    <br>
+                    <br />
+                    <label for="yourMessage">Your Message:</label>
+                    <br>
+                    <textarea id="yourMessage" name="yourMessage" cols="30" rows="10"></textarea>
+                    <br>
+                    <input type="submit" name="">
+                </form>
+
+                <!--Reference Social Media Icons of Awesome 4-->
+                <link rel="stylesheet"
+                    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+                <p><a href="https://web.facebook.com/profile.php?id=100011089750783" class="fa fa-facebook-square" target="_blank"
+                        style="font-size: 40px; color: rgb(7, 114, 255);"></a>  
+                    <a href="https://www.instagram.com/2001real_fox/" class="fa fa-instagram" target="_blank"
+                        style="font-size: 40px; color: brown;"></a>  
+                    <a href="https://twitter.com/DionCruzZZ" class="fa fa-twitter" target="_blank"
+                        style="font-size: 40px; color: rgb(63, 185, 255);"></a>
+                </p>
+                <p>Email: <a href="mailto:anusa.khon@bumail.net">anusa.khon@bumail.net</a></p>
+        </tr>
+    </table>
+    <p style="text-align:center;"><img src="https://steamuserimages-a.akamaihd.net/ugc/923666416223163938/B6E357CFEEFE76BF27DEA839AE1BF620B5E3BEF3/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="7"></p>
+
+</body>
+
+</html>
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>Abhisit's Experiences</title>
+</head>
+<body style="background-color:powderblue;">
+    <!-- Menu -->
+    <hr>
+    <table style="width:100%; text-align: center">
+        <tr>
+            <td>
+                <h3><a href="index.html">Profile</a></h3>
+            </td>
+            <td>
+                <h3><a href="experiences.html">Experiences</a></h3>
+            </td>
+            <td>
+                <h3><a href="abilities.html">Abilities</a></h3>
+            </td>
+            <td>
+                <h3><a href="projects.html">Projects</a></h3>
+            </td>
+            <td>
+                <h3><a href="contact.html">Contact</a></h3>
+            </td>
+        </tr>
+    </table> 
+    <hr> 
+    <h1 style="text-align: center; font-family: cursive;">Experiences</h1> 
+    <!-- Reference: Aclonica Font -->
+    <link href='https://fonts.googleapis.com/css?family=Aclonica'rel='stylesheet'> 
+    <h4 style="text-align: center; font-family: Aclonica; font-weight:normal"><i>
+        </i>"May the force be with you"</h4>
+        <h5 style="text-align: center; font-family: Aclonica; font-weight:normal">
+            --- Albert Einstein ---</h5> 
+    <table style="margin-left: auto; margin-right: auto">
+        <tbody>
+            <tr>
+              <td>
+                <h2>Learning experiences</h2>
+                <ul type="circle">
+                    <li>Multimedia Programming</li>
+                    <li>CSS</li>
+                    <li>Maya</li>
+                </ul>
+                <h2>Research Interests</h2>
+                <ol>
+                    <li>Computers Programming</li>
+                    <li>Photographic</li>
+                    <li>UX/UI</li>
+                </ol>              
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p style="text-align:center;"><img src="https://i.pinimg.com/originals/29/09/59/290959506024fa436201028876008187.gif" alt="3"></p>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Anusa Profile Site</title>
+    <link href='https://fonts.googleapis.com/css?family=Aclonica'rel='stylesheet'>
+    <!--line 7,18: Exeternal Resource Link  
+        font-family Ref:https://www.w3schools.com/whatis/tryit.asp?font=Aclonica -->
+</head>
+
+<body style="background-color:powderblue;">
+    <!-- Header -->
+    <!-- Ref:https://developer.mozilla.org/en-US/docs/Web/CSS/font-family-->
+    <h1 style="text-align: center; font-family: cursive;">Profile</h1>
+    <h2 style="text-align: center; font-family: cursive; font-weight:normal">
+        I'm Anusa Khongkasem</h2>  
+    <h4 style="text-align: center; font-family: Aclonica ; font-weight:normal"><i>
+        "You get what you work for, not what you wish for."</i></h4>    
+    <hr>
+    <!-- Menu -->
+    <table style="width:100%; text-align: center">
+        <tr>
+            <td>
+                <h3><a href="index.html">Profile</a></h3>
+            </td>
+            <td>
+                <h3><a href="experiences.html">Experiences</a></h3>
+            </td>
+            <td>
+                <h3><a href="abilities.html">Abilities</a></h3>
+            </td>
+            <td>
+                <h3><a href="projects.html">Projects</a></h3>
+            </td>
+            <td>
+                <h3><a href="contact.html">Contact</a></h3>
+            </td>
+        </tr>
+    </table>  
+    <hr>
+    <table>
+        <tr>
+            <th style="width: 33.33%; vertical-align: top;"><h2 >About me</h2>
+                <p style="font-weight:normal; text-align: justify;">&nbsp;&nbsp;&nbsp;
+                    I study at Bangkok University.This year I'm in the second year of the Faculty of Engineering, Department of Multimedia and Entertainment.  Have an interest in computers and programming.
+                </p>
+                <p>Email: <a href="mailto: anusa.khon@bumail.net">ansua.khon@bumail.net</a></p>
+            </th>
+            <th style="width: 33.33%; vertical-align: top;">
+                <!--Crop Circle Image: https://crop-circle.imageonline.co/-->
+                <p><img src="images/1.png" alt="Abhisit Ukham" style="width: 55%;"></p>
+                </th>
+                <th style="width: 33.33%; vertical-align: top; text-align: left;"><h2>Details</h2>
+                <p>Name:</p>
+                    <p style="font-weight:normal;">Anusa Khongkasem</p>
+                <p>Location:</p>
+                    <p style="font-weight:normal;">Thailand</p>
+                    <p>Social Media:</p>
+                    <!--Reference Social Media Icons-->
+                    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">    
+                    <!--Icons Class Reference: https://www.w3schools.com/icons/icons_reference.asp-->
+                    <p><a href="https://web.facebook.com/profile.php?id=100011089750783" class="fa fa-facebook-square" target="_blank" style="font-size: 40px; color: rgb(7, 114, 255);"></a>
+                        <a href="https://www.instagram.com/2001real_fox/" class="fa fa-instagram" target="_blank" style="font-size: 40px; color: brown;"></a>
+                    </p>
+            </th>
+        </tr>
+    </table>
+    <hr>
+    <p style="text-align: center;">© 2022 Ansua Khongkasem</p>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en"{IF CLASSES}class="classes"{/IF}>
+<head>
+    <meta charset="UTF-8">
+    <title>Profile - Abhisit Profile</title>
+</head>
+<body style="background-color:powderblue;">
+    <!-- Menu -->
+    <hr>
+    <table style="width:100%; text-align: center">
+        <tr>
+            <td>
+                <h3><a href="index.html">Profile</a></h3>
+            </td>
+            <td>
+                <h3><a href="experiences.html">Experiences</a></h3>
+            </td>
+            <td>
+                <h3><a href="abilities.html">Abilities</a></h3>
+            </td>
+            <td>
+                <h3><a href="projects.html">Projects</a></h3>
+            </td>
+            <td>
+                <h3><a href="contact.html">Contact</a></h3>
+            </td>
+        </tr>
+    </table> 
+    <hr> 
+    <h1 style="text-align: center; font-family: cursive;">Projects</h1> 
+    <!-- Reference: Aclonica Font -->
+    <link href='https://fonts.googleapis.com/css?family=Prompt'rel='stylesheet'> 
+    <h4 style="text-align: center; font-family: Prompt; font-weight:normal"><i>
+        "Ryan.B"</i></h4>
+        <h5 style="text-align: center; font-family: Aclonica; font-weight:normal">
+            --- Ryan.B |  周延英 ---</h5>   
+ 
+        <p style="text-align: center;">
+        <b>NO REASON</b></p>  
+        <p style="text-align:center;"> 
+             <iframe width="640" height="340" src="https://www.youtube.com/embed/rw__TSq2fcQ" title="Ryan.B & 周延英 - 沒有理由【歌詞字幕 / 完整高清音質】♫「不知不覺的放開你...」Ryan.B & Effie - No Reason" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     
+        </p>
+</body>
+</html>
